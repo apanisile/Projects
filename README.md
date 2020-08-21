@@ -1,2 +1,2 @@
 # Projects
-Every project in every lamguage i have worked on, has been uploaded here
+Every project in every language i have worked on, has been uploaded here
